@@ -1,0 +1,17 @@
+[package]
+name = "geodatafusion"
+version = "0.0.0"
+edition = "2021"
+description = "WIP geodatafusion implementation"
+authors = ["Apps4u_co"]
+#homepage="http://apps4u.co/"
+documentation="https://docs.rs/geodatafusion"
+repository="https://github.com/apps4uco/geodatafusion"
+keywords = ["geoarrow","geoparquet","parquet","gis","geospatial"]
+categories = ["data-structures","database-implementations","parser-implementations"]
+license = "MIT OR Apache-2.0"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
